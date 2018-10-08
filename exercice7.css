@@ -1,0 +1,35 @@
+.exercice{
+  font-family: "Raleway";
+  color: blue;
+  background-color: yellow;
+
+  display: block;
+  width: 100%;
+  height: 320px;
+  text-align: center;
+  margin: auto;
+  padding-top: 15px;
+}
+
+p, ol{
+  font-size: 12px;
+}
+
+h1{
+  font-size: 20px;
+}
+
+.bouton{
+display:block;
+width:150px;
+line-height:20px;
+color:blue;
+background-color: green;
+margin-top: 40px;
+font-family: "Raleway";
+
+}
+.bouton:hover {
+  background-color: yellow;
+  color : blue;
+}
